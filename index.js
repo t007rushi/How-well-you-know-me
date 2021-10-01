@@ -22,9 +22,9 @@ for(var i=0;i<list.length;i++){
   else{
     console.log("Wrong buddy!!!")
     console.log("It's  "+ a );
-    // score-=1
+  
   }
-  // console.log(q);
+ 
 }
 
 var topper = [top1=
@@ -36,14 +36,7 @@ var topper = [top1=
   }
 ]
 console.log("Your Score is:",score)
-// cons
+
 if(score>=3){
   console.log("BHAI Hai TU MERA")
 }
-// if(maxscore<score){
-//   maxscore = score
-//   topper.top1.name =maxscore
-
-// }
-
-// console.log(topper.top1)
